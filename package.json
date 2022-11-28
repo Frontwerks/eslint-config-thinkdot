@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-thinkdot",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": ".eslintrc.js",
     "license": "MIT",
     "author": "Frontwerks <research@frontwerks.com>",
